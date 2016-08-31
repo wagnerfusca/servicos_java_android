@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">lembreteAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lembrete">Lembrete</string>
+    <string name="btnAdicionar">Adicionar</string>
+    <string name="btnListar">Listar</string>
+    <string name="listar_json">Listar JSON</string>
+    <string name="quem_pegou_emprestado_">Quem pegou emprestado?</string>
+    <string name="o_que_emprestei_">O que emprestei?</string>
+
+</resources>

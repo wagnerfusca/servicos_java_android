@@ -1,0 +1,48 @@
+Genymotion
+* VM 
+* precisa de cadastro
+* instalacao na maquina
+* instalacao de plugin
+
+-------------
+exercicio
+- fazer um software que sirva para voce saber para quem emprestou alguma coisa
+- criar um novo projeto no heroku
+
+- devera ter o que foi emprestado (campo aberto) e para quem (campo aberto). QUando o mesmo estiver rodando 100% adicionar o campo data
+
+- criar um servico em java e adicionar ele no heroku
+* usar heroku
+* usar git
+* usar postgre
+* usar resteasy
+* usar maven
+
+- criar um app em android que faça o cadastro destes lembretes
+
+- Como melhoria fazer a tela de listagem exibindo cada item
+* usar LayoutInflater
+* usar json
+http://www.androidhive.info/2012/01/android-json-parsing-tutorial/
+
+-------------------------------
+RestEasy X Jersey
+
+
+Heroku x clouds (jelastic, app engine google, amazon, java cloud)
+--------------------------------
+Material Design
+O Conceito:
+http://www.google.com/design/spec/material-design/introduction.html#
+https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031
+ 
+
+http://materializecss.com/buttons.html
+http://material-ui.com/
+http://bootswatch.com/paper
+
+http://fezvrasta.github.io/bootstrap-material-design/
+http://getleaf.com/grid
+https://www.muicss.com/
+https://www.polymer-project.org/0.5/docs/elements/material.html
+https://polymer-topeka.appspot.com/
