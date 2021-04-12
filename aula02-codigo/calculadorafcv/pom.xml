@@ -8,7 +8,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<tomcat.version>9.0.13</tomcat.version>
+		<tomcat.version>9.0.45</tomcat.version>
 	</properties>
 
 
@@ -16,7 +16,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
+			<version>4.13.2</version>
 			<scope>test</scope>
 		</dependency>
 
